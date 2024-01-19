@@ -7,5 +7,5 @@ Designed for simplifying HTTP operations.
 - **HTTP Requests:** GET, POST, and DELETE. We convert HTTP response bodies to JSON immediately.
 
 
-
-Very simple [ONE file package](https://github.com/Cvikli/HTTPUtils.jl/blob/main/src/HTTPUtils.jl).
+## Very simple package 
+- [HTTPUtils.jl](https://github.com/Cvikli/HTTPUtils.jl/blob/main/src/HTTPUtils.jl) is a ONE file pkg.
