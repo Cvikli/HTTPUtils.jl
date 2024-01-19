@@ -1,5 +1,6 @@
 # HTTPUtils.jl
-HTTP package wrapper for simplify even further. Designed for simplifying HTTP operations.
+HTTP package wrapper for simplify even further. 
+Designed for simplifying HTTP operations.
 
 
 ## Features
@@ -7,4 +8,4 @@ HTTP package wrapper for simplify even further. Designed for simplifying HTTP op
 
 
 
-
+Very simple ONE file package.
