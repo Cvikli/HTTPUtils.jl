@@ -1,6 +1,6 @@
 name = "HTTPUtils"
 uuid = "3a111e47-6ce7-48ce-aad6-71385b31a3bb"
-authors = ["Cvikli havlikmarcell@gmail.com"]
+authors = ["Marcell <havlikmarcell@gmail.com>"]
 version = "0.1.0"
 
 [deps]
