@@ -8,4 +8,4 @@ Designed for simplifying HTTP operations.
 
 
 
-Very simple ONE file package.
+Very simple [ONE file package](https://github.com/Cvikli/HTTPUtils.jl/src/HTTPUtils.jl).
